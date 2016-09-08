@@ -6,34 +6,48 @@ Direct3D:
     Vendor:   Intel
     VRAM:     2111 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\LZ4Sharp.dll (this message is harmless)
-Loading C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\LZ4Sharp.dll into Unity Child Domain
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
-Loading C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
-- Completed reload, in  0.067 seconds
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\John Welter\Desktop\New folder\Therenect\Therenect_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\LZ4Sharp.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\LZ4Sharp.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.250 seconds
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Therenect_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 desktop: 3000x2000 60Hz; virtual: 3000x2000 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.775294 ms
+UnloadTime: 1.028377 ms
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/libKinect10.dll
 x32-architecture detected.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Unzipping NuiDatabase.zip...
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -47,41 +61,23 @@ KM is restarting level...
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 834.
-Total: 0.588217 ms (FindLiveObjects: 0.059077 ms CreateObjectMapping: 0.026985 ms MarkObjects: 0.487932 ms  DeleteObjects: 0.012763 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 834.
+Total: 0.634530 ms (FindLiveObjects: 0.056159 ms CreateObjectMapping: 0.034279 ms MarkObjects: 0.527681 ms  DeleteObjects: 0.013492 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.645666 ms
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/Kinect10
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\Kinect10
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/Kinect10
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/Kinect10
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\Kinect10
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/Kinect10
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/.\libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Desktop/New folder/Therenect/Therenect_Data/Mono/libKinect10.dll
+UnloadTime: 7.374781 ms
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/.\libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Therenect_Data/Mono/libKinectUnityAddin
 No sensor found. Make sure you have installed the SDK and the sensor is connected.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
@@ -99,7 +95,7 @@ KinectManager:Awake()
 
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 834.
-Total: 0.559043 ms (FindLiveObjects: 0.061629 ms CreateObjectMapping: 0.040478 ms MarkObjects: 0.444536 ms  DeleteObjects: 0.011669 ms)
+Total: 0.607180 ms (FindLiveObjects: 0.081686 ms CreateObjectMapping: 0.033914 ms MarkObjects: 0.459123 ms  DeleteObjects: 0.028444 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1bcc -> priority: 1 
+  Thread -> id: 3144 -> priority: 1 

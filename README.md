@@ -7,7 +7,7 @@ A collection of various small projects and games I've worked or am working on
 
 A kinect enabled Theremin. 
 
-Only a manual build is currently availible.
+Only a manual build is currently availible (Mac + Windows)
 
 CONTROLS:
 
@@ -17,6 +17,13 @@ CONTROLS:
   2 - increase volume
   
   A, W, S, E, D, F, T, G, Y, H, U, J, K, O, I, P, :, ' - keys acting like a keyboard, starting on a C key. can be offset by halfsteps
+  
+Visualisation:
+
+   W E   T Y U   O P 
+  A S D F G H J K L ; '
+  
+  c d e f g a b c d e f
   
   MODULATION - a wave that causes a held pitch to waver. can control the depth and the speed
   LOWPASS - used to make the saw wave not sound like an eargrater. only allows lower frequency sounds to get through. the lower the value, 

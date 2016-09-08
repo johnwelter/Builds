@@ -1,4 +1,5 @@
 # Builds
+
 A collection of various small projects and games I've worked or am working on
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -34,4 +35,3 @@ Visualisation:
   Pitch Shift - shifts the entire theremin range up a half step per value. 
   keyboard shift - moves keyboard keys up and down availible range in half steps
   Glide speed- time it takes to settle from changing notes. the higher, the faster the transition.
-  

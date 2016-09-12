@@ -1,0 +1,101 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\LZ4Sharp.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\LZ4Sharp.dll into Unity Child Domain
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.237 seconds
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\resTests\twotimeres_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 3000x2000 60Hz; virtual: 3000x2000 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.029471 ms
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/Kinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/Kinect10
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/.\libKinect10.dll
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/resTests/twotimeres_Data/Mono/libKinect10.dll
+x32-architecture detected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OpenNI2-folder not found (check OPENNI2_REDIST).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+KM is restarting level...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1018.
+Total: 0.557949 ms (FindLiveObjects: 0.064547 ms CreateObjectMapping: 0.037196 ms MarkObjects: 0.445630 ms  DeleteObjects: 0.009116 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.508182 ms
+No sensor found. Make sure you have installed the SDK and the sensor is connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Exception: No sensor found. Make sure you have installed the SDK and the sensor is connected.
+  at KinectManager.StartKinect () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+KinectManager:StartKinect()
+KinectManager:Awake()
+ 
+(Filename:  Line: -1)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1018.
+Total: 0.679750 ms (FindLiveObjects: 0.059076 ms CreateObjectMapping: 0.037561 ms MarkObjects: 0.571077 ms  DeleteObjects: 0.010575 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 227c -> priority: 1 

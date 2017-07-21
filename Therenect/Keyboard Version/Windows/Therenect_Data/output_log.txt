@@ -2,9 +2,9 @@ Initialize engine version: 5.4.1f1 (649f48bbbf0f)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
-    Vendor:   Intel
-    VRAM:     2111 MB
+    Renderer: NVIDIA GeForce GPU (ID=0x134b)
+    Vendor:   NVIDIA
+    VRAM:     996 MB
 Begin MonoManager ReloadAssembly
 Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Keyboard Version\Windows\Therenect_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Keyboard Version\Windows\Therenect_Data\Managed\UnityEngine.dll into Unity Child Domain
@@ -20,27 +20,15 @@ Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Keyboa
 Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Keyboard Version\Windows\Therenect_Data\Managed\LZ4Sharp.dll into Unity Child Domain
 Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Keyboard Version\Windows\Therenect_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
 Loading C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Keyboard Version\Windows\Therenect_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
-- Completed reload, in  0.079 seconds
+- Completed reload, in  0.060 seconds
 Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Keyboard Version\Windows\Therenect_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Therenect\Keyboard Version\Windows\Therenect_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
-desktop: 3000x2000 60Hz; virtual: 3000x2000 at 0,0
+desktop: 3000x2000 60Hz; virtual: 3750x2500 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.795350 ms
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\libKinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/libKinectUnityAddin
+UnloadTime: 1.161845 ms
 Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/Kinect10.dll
 Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\Kinect10.dll
 Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/Kinect10.dll
@@ -74,10 +62,22 @@ KM is restarting level...
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1020.
-Total: 0.580193 ms (FindLiveObjects: 0.064547 ms CreateObjectMapping: 0.025162 ms MarkObjects: 0.480638 ms  DeleteObjects: 0.009116 ms)
+Total: 0.699805 ms (FindLiveObjects: 0.082051 ms CreateObjectMapping: 0.036102 ms MarkObjects: 0.568888 ms  DeleteObjects: 0.012034 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.319705 ms
+UnloadTime: 8.163915 ms
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/KinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/.\libKinectUnityAddin
+Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Therenect/Keyboard Version/Windows/Therenect_Data/Mono/libKinectUnityAddin
 No sensor found. Make sure you have installed the SDK and the sensor is connected.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
@@ -95,7 +95,7 @@ KinectManager:Awake()
 
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1020.
-Total: 0.532057 ms (FindLiveObjects: 0.053971 ms CreateObjectMapping: 0.030267 ms MarkObjects: 0.419373 ms  DeleteObjects: 0.007658 ms)
+Total: 0.627600 ms (FindLiveObjects: 0.074757 ms CreateObjectMapping: 0.025527 ms MarkObjects: 0.517469 ms  DeleteObjects: 0.008752 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 5c0 -> priority: 1 
+  Thread -> id: 28f4 -> priority: 1 

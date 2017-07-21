@@ -2,9 +2,9 @@ Initialize engine version: 5.4.1f1 (649f48bbbf0f)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
-    Vendor:   Intel
-    VRAM:     2111 MB
+    Renderer: NVIDIA GeForce GPU (ID=0x134b)
+    Vendor:   NVIDIA
+    VRAM:     996 MB
 Begin MonoManager ReloadAssembly
 Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Bactory\Keyboard Version\Windows\bactoryManual_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\John Welter\Documents\GitHub\Builds\Bactory\Keyboard Version\Windows\bactoryManual_Data\Managed\UnityEngine.dll into Unity Child Domain
@@ -20,7 +20,7 @@ Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Bactory\Keyboard
 Loading C:\Users\John Welter\Documents\GitHub\Builds\Bactory\Keyboard Version\Windows\bactoryManual_Data\Managed\OpenCvSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Bactory\Keyboard Version\Windows\bactoryManual_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
 Loading C:\Users\John Welter\Documents\GitHub\Builds\Bactory\Keyboard Version\Windows\bactoryManual_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
-- Completed reload, in  0.242 seconds
+- Completed reload, in  0.077 seconds
 Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Bactory\Keyboard Version\Windows\bactoryManual_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\John Welter\Documents\GitHub\Builds\Bactory\Keyboard Version\Windows\bactoryManual_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on StartVar
@@ -33,68 +33,3 @@ desktop: 3000x2000 60Hz; virtual: 3000x2000 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 1.128294 ms
-Failed to load 'C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll' with error 'The specified module could not be found.
-'.
- 
-(Filename:  Line: 117)
-
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/libC:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\libC:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/libC:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll
-Failed to load 'C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll' with error 'The specified module could not be found.
-'.
- 
-(Filename:  Line: 117)
-
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/libC:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\libC:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/libC:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Plugins/KinectUnityAddin.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/Kinect10
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\Kinect10
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/Kinect10
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/Kinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/Kinect10
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\Kinect10
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/Kinect10
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/.\libKinect10.dll
-Fallback handler could not load library C:/Users/John Welter/Documents/GitHub/Builds/Bactory/Keyboard Version/Windows/bactoryManual_Data/Mono/libKinect10.dll
-x32-architecture detected.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-OpenNI2-folder not found (check OPENNI2_REDIST).
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-No sensor found. Make sure you have installed the SDK and the sensor is connected.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Exception: No sensor found. Make sure you have installed the SDK and the sensor is connected.
-  at KinectManager.StartKinect () [0x00000] in <filename unknown>:0 
-UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
-UnityEngine.DebugLogHandler:LogException(Exception, Object)
-UnityEngine.Logger:LogException(Exception, Object)
-UnityEngine.Debug:LogException(Exception)
-KinectManager:StartKinect()
-KinectManager:Awake()
- 
-(Filename:  Line: -1)
-
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2ea4 -> priority: 1 
